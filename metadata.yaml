@@ -1,0 +1,40 @@
+_repo: Chronica-de-El-Rei-D.-Affonso-V--Vol.-I-_25987
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pina, Rui de
+    alias: Pina, Ruy de
+    birthdate: 1440
+    deathdate: 1521
+    gutenberg_agent_id: '6799'
+    url: http://www.gutenberg.org/2009/agents/6799
+    wikipedia:
+    - http://pt.wikipedia.org/wiki/Rui_de_Pina
+    - http://en.wikipedia.org/wiki/Rui_de_Pina
+  editor:
+    agent_name: Pereira, Gabriel
+    birthdate: 1847
+    deathdate: 1911
+    gutenberg_agent_id: '31717'
+    url: http://www.gutenberg.org/2009/agents/31717
+description: ''
+gutenberg_bookshelf:
+- PT Biografia
+- PT História
+gutenberg_issued: '2008-07-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25987'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Portugal -- History -- Alfonso V, 1438-1481'
+- !lcc 'DP'
+- !lcsh 'Afonso V, King of Portugal, 1432-1481'
+title: Chronica de El-Rei D. Affonso V (Vol. I)
+url: http://www.gutenberg.org/ebooks/25987
