@@ -21,6 +21,8 @@ creator:
     gutenberg_agent_id: '31717'
     url: http://www.gutenberg.org/2009/agents/31717
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25987#Chronica-de-El-Rei-D.-Affonso-V--Vol.-I-
 gutenberg_bookshelf:
 - PT Biografia
 - PT História
